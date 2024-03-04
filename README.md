@@ -1,6 +1,6 @@
 # Hallo semuanya 👋 Perkenalkan nama saya Amanda Sari. Saya berasal dari Kisaran, Asahan, Sumatera Utara. 
 Saya kuliah di Sekolah Tinggi Manajemen Informatika dan Komputer Royal.
-Saya saat ini sedang memasuki semester 6 💥.
+Saya saat ini sedang memasuki semester 6 💥, Jurusan Sistem Informasi (SI).
 Dan juga saya saat ini mengikuti Program MSIB yang di NF ACADEMY atau di PT Nurul Fikri Cipta Inovasi.
 Saya mengambil program Akademi Fullstack Web Developer.
 Saya sangat tertarik di dunia programming, dimana saya saat ini sedang mempelajari HTML, CSS dan juga GITHUB.
