@@ -1,5 +1,5 @@
 # 💫 About Me:
-Saya adalah seorang Mahasiswi yang saaat ini sedang menjalani semester 7. <br>Saya saat ini sedang belajar mengenai lebih dalam lagi terkait Back - End, dimana saya saat ini sedang belajar tentang Framework Laravel maupun Framework Codeigniter. <br><br>Saya juga sudah menyelesaikan Program Kampus Merdeka yaitu Studi Independen di Nurul Fikri Cipta Inovasi dengan posisi Akademi Fullstack Web Develepor. <br>Saya saat ini juga sudah menyelesaikan Kuliah Kerja Lapangan atau KKL di Badan Pusat Statistik yang dimana memberikan saya wawasan yang luas dan juga mengetahaui tentang data.
+Saya adalah seorang Mahasiswi yang saaat ini sedang menjalani semester 7. <br>Saya saat ini sedang belajar mengenai lebih dalam lagi terkait Back - End, dimana saya saat ini sedang belajar tentang Framework Laravel maupun Framework Codeigniter. <br><br>Saya juga sudah menyelesaikan Program Kampus Merdeka yaitu Studi Independen di Nurul Fikri Cipta Inovasi dengan posisi Akademi Fullstack Web Develepor. <br>Saya saat ini juga sudah menyelesaikan Kuliah Kerja Lapangan atau KKL di Badan Pusat Statistik yang dimana memberikan saya wawasan yang luas dan juga mengetahui tentang data.
 
 
 ## 🌐 Socials:
