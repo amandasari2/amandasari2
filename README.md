@@ -3,8 +3,8 @@
 Saya adalah lulusan jurusan **Sistem Informasi** dengan IPK **3,85**. Memiliki ketertarikan besar dalam pengembangan perangkat lunak, khususnya di sisi **Back-End**. Saat ini saya menguasai dan terus mendalami penggunaan kerangka kerja **Laravel** maupun **CodeIgniter**.
 
 Selama menempuh pendidikan, saya telah menyelesaikan beberapa program dan kegiatan yang menambah wawasan serta keahlian saya, antara lain:
-- ✅ Lulus Program **Kampus Merdeka - Studi Independen** di **Nurul Fikri Cipta inovasi** dengan fokus pembelajaran sebagai **Fullstack Web Developer**.
-- ✅ Melaksanakan **Kuliah Kerja Lapangan (KKL)** di **Badan Pusat Statistik**, yang memberikan saya pemahaman mendalam mengenai pengolahan, manajemen, dan analisis data.
+- Lulus Program **Kampus Merdeka - Studi Independen** di **Nurul Fikri Cipta inovasi** dengan fokus pembelajaran sebagai **Fullstack Web Developer**.
+- Melaksanakan **Kuliah Kerja Lapangan (KKL)** di **Badan Pusat Statistik**, yang memberikan saya pemahaman mendalam mengenai pengolahan, manajemen, dan analisis data.
 
 Selain latar belakang di bidang teknologi, saya juga memiliki pengalaman kerja di usaha jasa fotokopi. Pengalaman ini melatih saya untuk bekerja disiplin, melayani dengan baik, mengelola waktu, dan menyelesaikan tugas dengan teliti dan cepat.
 
