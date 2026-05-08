@@ -1,5 +1,14 @@
 # 💫 About Me:
-Saya adalah seorang Mahasiswi yang saaat ini sedang menjalani semester 7. <br>Saya saat ini sedang belajar mengenai lebih dalam lagi terkait Back - End, dimana saya saat ini sedang belajar tentang Framework Laravel maupun Framework Codeigniter. <br><br>Saya juga sudah menyelesaikan Program Kampus Merdeka yaitu Studi Independen di Nurul Fikri Cipta Inovasi dengan posisi Akademi Fullstack Web Develepor. <br>Saya saat ini juga sudah menyelesaikan Kuliah Kerja Lapangan atau KKL di Badan Pusat Statistik yang dimana memberikan saya wawasan yang luas dan juga mengetahui tentang data.
+
+Saya adalah lulusan jurusan **Sistem Informasi** dengan IPK **3,85**. Memiliki ketertarikan besar dalam pengembangan perangkat lunak, khususnya di sisi **Back-End**. Saat ini saya menguasai dan terus mendalami penggunaan kerangka kerja **Laravel** maupun **CodeIgniter**.
+
+Selama menempuh pendidikan, saya telah menyelesaikan beberapa program dan kegiatan yang menambah wawasan serta keahlian saya, antara lain:
+- ✅ Lulus Program **Kampus Merdeka - Studi Independen** di **Nurul Fikri Cipta inovasi** dengan fokus pembelajaran sebagai **Fullstack Web Developer**.
+- ✅ Melaksanakan **Kuliah Kerja Lapangan (KKL)** di **Badan Pusat Statistik**, yang memberikan saya pemahaman mendalam mengenai pengolahan, manajemen, dan analisis data.
+
+Selain latar belakang di bidang teknologi, saya juga memiliki pengalaman kerja di usaha jasa fotokopi. Pengalaman ini melatih saya untuk bekerja disiplin, melayani dengan baik, mengelola waktu, dan menyelesaikan tugas dengan teliti dan cepat.
+
+Saya adalah pribadi yang rajin, mau belajar hal baru, dan siap berkontribusi untuk mengembangkan sistem yang efektif dan efisien.
 
 
 ## 🌐 Socials:
